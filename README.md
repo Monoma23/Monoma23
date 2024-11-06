@@ -1,5 +1,5 @@
 # 💫 About Me:
-👀 I’m Ayoub, a Frontend dev.<br>🌱 I’m currently learning about Smart contract auditing.<br>💬 Ask me about : Solidity or anything in the web3 space.<br>⚡ Fun fact : I'm a Civil Engineer.
+👀 I’m Ayoub, a Software Engineer.<br>🌱 I’m currently learning about Smart contract auditing.<br>💬 Ask me about : Solidity or anything in the web3 space.<br>⚡ Fun fact : I'm a Civil Engineer.
 
 
 ## 🌐 Socials:
